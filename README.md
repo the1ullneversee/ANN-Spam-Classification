@@ -15,3 +15,4 @@ A few key functions:
 
 <h1>Results</h1>
 ![ANN Results](https://github.com/the1ullneversee/ANN-Spam-Classification/blob/main/Results.png.jpg)
+![Results png](https://user-images.githubusercontent.com/8123313/139666417-925ecb91-e2a5-4db8-8ced-6749a7ff4a98.jpg)
